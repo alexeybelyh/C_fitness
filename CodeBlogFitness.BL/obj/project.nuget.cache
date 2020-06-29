@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yKXKlub6Bv+9KW+hKT54kAPYNCueTl36RrdZ8iyLIIdGFiNE+H3y9s/qBfIVh3xIEUryax99ZCEL4EyTdUxqgQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alexey\\source\\repos\\alexeybelyh\\C_fitness\\CodeBlogFitness.BL\\CodeBlogFitness.BL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alexey\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Alexey\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
