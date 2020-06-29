@@ -1,0 +1,16 @@
+C:\Users\Alexey\source\repos\alexeybelyh\C_fitness\CodeBlogFitness.CMD\obj\Debug\netcoreapp3.1\CodeBlogFitness.CMD.csprojAssemblyReference.cache
+C:\Users\Alexey\source\repos\alexeybelyh\C_fitness\CodeBlogFitness.CMD\obj\Debug\netcoreapp3.1\CodeBlogFitness.CMD.AssemblyInfoInputs.cache
+C:\Users\Alexey\source\repos\alexeybelyh\C_fitness\CodeBlogFitness.CMD\obj\Debug\netcoreapp3.1\CodeBlogFitness.CMD.AssemblyInfo.cs
+C:\Users\Alexey\source\repos\alexeybelyh\C_fitness\CodeBlogFitness.CMD\obj\Debug\netcoreapp3.1\CodeBlogFitness.CMD.csproj.CoreCompileInputs.cache
+C:\Users\Alexey\source\repos\alexeybelyh\C_fitness\CodeBlogFitness.CMD\bin\Debug\netcoreapp3.1\CodeBlogFitness.CMD.exe
+C:\Users\Alexey\source\repos\alexeybelyh\C_fitness\CodeBlogFitness.CMD\bin\Debug\netcoreapp3.1\CodeBlogFitness.CMD.deps.json
+C:\Users\Alexey\source\repos\alexeybelyh\C_fitness\CodeBlogFitness.CMD\bin\Debug\netcoreapp3.1\CodeBlogFitness.CMD.runtimeconfig.json
+C:\Users\Alexey\source\repos\alexeybelyh\C_fitness\CodeBlogFitness.CMD\bin\Debug\netcoreapp3.1\CodeBlogFitness.CMD.runtimeconfig.dev.json
+C:\Users\Alexey\source\repos\alexeybelyh\C_fitness\CodeBlogFitness.CMD\bin\Debug\netcoreapp3.1\CodeBlogFitness.CMD.dll
+C:\Users\Alexey\source\repos\alexeybelyh\C_fitness\CodeBlogFitness.CMD\bin\Debug\netcoreapp3.1\CodeBlogFitness.CMD.pdb
+C:\Users\Alexey\source\repos\alexeybelyh\C_fitness\CodeBlogFitness.CMD\bin\Debug\netcoreapp3.1\CodeBlogFitness.BL.dll
+C:\Users\Alexey\source\repos\alexeybelyh\C_fitness\CodeBlogFitness.CMD\bin\Debug\netcoreapp3.1\CodeBlogFitness.BL.pdb
+C:\Users\Alexey\source\repos\alexeybelyh\C_fitness\CodeBlogFitness.CMD\obj\Debug\netcoreapp3.1\CodeBlogFitness.CMD.csproj.CopyComplete
+C:\Users\Alexey\source\repos\alexeybelyh\C_fitness\CodeBlogFitness.CMD\obj\Debug\netcoreapp3.1\CodeBlogFitness.CMD.dll
+C:\Users\Alexey\source\repos\alexeybelyh\C_fitness\CodeBlogFitness.CMD\obj\Debug\netcoreapp3.1\CodeBlogFitness.CMD.pdb
+C:\Users\Alexey\source\repos\alexeybelyh\C_fitness\CodeBlogFitness.CMD\obj\Debug\netcoreapp3.1\CodeBlogFitness.CMD.genruntimeconfig.cache

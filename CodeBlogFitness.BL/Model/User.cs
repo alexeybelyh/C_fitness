@@ -3,18 +3,19 @@ using System.Security.Cryptography.X509Certificates;
 
 namespace CodeBlogFitness.BL.Model
 {   
+    [Serializable]
     public class User
     {
         #region Свойства
         /// <summary>
         /// Имя.
         /// </summary>
-        public string name { get; }
+        public string Name { get; }
         
         /// <summary>
         /// Пол.
         /// </summary>
-        public string Gender { get; }
+        public Gender Gender { get; }
         
         /// <summary>
         /// Дата рождения.
@@ -52,7 +53,7 @@ namespace CodeBlogFitness.BL.Model
                 throw new ArgumentNullException("Имя пользователя не может быть пустым или null", nameof(name));
             }
 
-            if (Gender == null) 
+            if (gender == null) 
             {
                 throw new ArgumentNullException("Пол не может быть null.", nameof(gender));
             }
@@ -84,5 +85,6 @@ namespace CodeBlogFitness.BL.Model
         {
             return Name;
         }
+
     }
 }
